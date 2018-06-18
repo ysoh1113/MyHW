@@ -5,11 +5,8 @@ public class A {
 		b.println();
 		C c = new C(2);
 		c.println();
-<<<<<<< HEAD
-		System.out.println("master version_A.java");
-=======
-		System.out.println("DevB_A.java");
->>>>>>> DevB
+		System.out.println("DevC_A.java");
+
 
 	}
 }
