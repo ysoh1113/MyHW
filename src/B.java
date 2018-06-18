@@ -5,7 +5,7 @@ public class B {
 	}
 	public void println() {
 		System.out.println(i);
-		System.out.println("first version");
+		System.out.println("DevB");
 	}
-	
+
 }
